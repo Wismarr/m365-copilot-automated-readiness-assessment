@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "m365-copilot-automated-readiness-assessment",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
